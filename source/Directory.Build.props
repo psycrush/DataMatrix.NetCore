@@ -1,6 +1,6 @@
 <Project>
   <PropertyGroup>
-    <Version>0.4.2</Version>
+    <Version>0.4.3</Version>
     <Description>Encode and Decode DataMatrix strings and images.</Description>
     <Authors>Scott Downing, Michael Faschinger</Authors>
     <Company>Figz International UG</Company>
